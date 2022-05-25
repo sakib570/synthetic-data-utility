@@ -1,6 +1,6 @@
 # Utility Assessment of Synthetic Data Generation Methods
 
-> This is repository contains the official implementation and a extended version of the paper: Utility Assessment of Synthetic Data Generation Methods
+> This is repository contains the official implementation and the extended version of the paper: Utility Assessment of Synthetic Data Generation Methods
 
 ---
 
