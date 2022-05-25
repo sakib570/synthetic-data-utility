@@ -17,7 +17,7 @@ Big data analysis poses the dual problem of privacy preservation and utility, i.
 
 # Extended Version of the Paper
 
-The extended version of the Utility Assessment of Synthetic Data Generation Methods paper wih more detailed explanation about the experiments performed can be found using the following link
+The extended version of the ```Utility Assessment of Synthetic Data Generation Methods``` paper wih more detailed explanation about the experiments performed can be found using the following link
 
 [Extended Version - Utility Assessment of Synthetic Data Generation Methods](https://github.com/sakib570/synthetic-data-utility/blob/main/Extended_Version_Utility_Assessment_of_Synthetic_Data_Generation_Methods.pdf)
 
