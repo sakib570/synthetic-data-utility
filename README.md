@@ -10,7 +10,7 @@
 Big data analysis poses the dual problem of privacy preservation and utility, i.e., how accurate data analyses remain after transforming original data in order to protect the privacy of the individuals that the data is about - and whether they are accurate enough to be meaningful. In this paper, we thus investigate across several datasets whether different methods of generating fully synthetic data vary in their utility a priori (when the specific analyses to be performed on the data are not known yet), how closely their results conform to analyses on original data a posteriori, and whether these two effects are correlated. We find some methods (decision-tree based) to perform better than others across the board, sizeable effects of some choices of imputation parameters (notably number of released datasets), no correlation between broad utility metrics  and analysis accuracy, and varying correlations for narrow metrics. We did get promising findings for classification tasks when using synthetic data for training machine-learning models, which we consider worth exploring further also in terms of mitigating privacy attacks against ML models such as membership inference and model inversion.
 
 <p align='center'>
-  <img src='plots/fig_framework_new.pdf'>
+  <img src='plots/fig_framework.png'>
 </p>
 
 ---
