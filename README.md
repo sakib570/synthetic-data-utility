@@ -1,6 +1,6 @@
 # Utility Assessment of Synthetic Data Generation Methods
 
-> This repository contains the official implementation and the extended version of the paper: Utility Assessment of Synthetic Data Generation Methods
+> This repository contains the official implementation, camera ready version for PSD 2022, and an extended version of the paper: Utility Assessment of Synthetic Data Generation Methods
 
 ---
 
@@ -12,6 +12,14 @@ Big data analysis poses the dual problem of privacy preservation and utility, i.
 <p align='center'>
   <img src='plots/fig_framework.png'>
 </p>
+
+---
+
+# Camera Ready Vesion PSD2022
+
+The camera ready version of the ```Utility Assessment of Synthetic Data Generation Methods``` accepted in PSD 2022
+
+[PSD2022 - Utility Assessment of Synthetic Data Generation Methods](https://github.com/sakib570/synthetic-data-utility/blob/main/Utility_Assessment_of_Synthetic_Data_Generation_Methods-PSD2022.pdf)
 
 ---
 
