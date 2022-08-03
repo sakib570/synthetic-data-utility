@@ -15,9 +15,9 @@ Big data analysis poses the dual problem of privacy preservation and utility, i.
 
 ---
 
-# Camera Ready Vesion PSD2022
+# Camera Ready Vesion PSD 2022
 
-The camera ready version of the ```Utility Assessment of Synthetic Data Generation Methods``` accepted in PSD 2022
+The camera ready version of the ```Utility Assessment of Synthetic Data Generation Methods``` accepted in PSD USB Proceddings 2022
 
 [PSD2022 - Utility Assessment of Synthetic Data Generation Methods](https://github.com/sakib570/synthetic-data-utility/blob/main/Utility_Assessment_of_Synthetic_Data_Generation_Methods-PSD2022.pdf)
 
